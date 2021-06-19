@@ -12,13 +12,15 @@
         "Download9": "https://cdn.discordapp.com/attachments/855794331155169300/855796695534141440/DiscordRPC.pdb|DiscordRPC.pdb"
     },
     "14": {
-        "downloadAmount": "7",
-        "Download1": "https://cdn.discordapp.com/attachments/855770825420046336/855771146766778368/Qualm_Swapper_S4.exe|QualmSwapperS4.exe",
-        "Download2": "https://cdn.discordapp.com/attachments/855743162828062722/855743209862987827/Siticone.UI.dll|Siticone.UI.dll",
-        "Download3": "https://cdn.discordapp.com/attachments/855743162828062722/855743209934290944/Newtonsoft.Json.dll|Newtonsoft.Json.dll",
-        "Download4": "https://cdn.discordapp.com/attachments/855770825420046336/855771143407403008/Microsoft.WindowsAPICodePack.Shell.dll|Microsoft.WindowsAPICodePack.Shell.dll",
-        "Download5": "https://cdn.discordapp.com/attachments/855770825420046336/855771140512677938/Microsoft.WindowsAPICodePack.dll|Microsoft.WindowsAPICodePack.dll",
-        "Download6": "https://cdn.discordapp.com/attachments/855770825420046336/855771139452174346/DiscordRPC.dll|DiscordRPC.dll",
-        "Download7": "https://cdn.discordapp.com/attachments/855770825420046336/855772745320235028/Qualm_Swapper_S4.exe.config|Qualm_Swapper_S4.exe.config"
+        "downloadAmount": "8",
+        "Download1": "https://cdn.discordapp.com/attachments/855844650107797546/855844666176307210/Qualm_Swapper_S4.exe|Qualm Swapper S4.exe",
+        "Download2": "https://cdn.discordapp.com/attachments/855844650107797546/855844664691130428/Qualm_Swapper_S4.exe.config|Qualm Swapper S4.exe.config",
+        "Download3": "https://cdn.discordapp.com/attachments/855844650107797546/855844665210175508/Qualm_Swapper_S4.exe.configQualm_Swapper_S4.exe.config",
+        "Download4": "https://cdn.discordapp.com/attachments/855844650107797546/855844667388461096/Newtonsoft.Json.dll|Newtonsoft.Json.dll",
+        "Download5": "https://cdn.discordapp.com/attachments/855844650107797546/855844669405265980/DiscordRPC.dll|DiscordRPC.dll",
+        "Download6": "https://cdn.discordapp.com/attachments/855844650107797546/855844671100420176/Microsoft.WindowsAPICodePack.dll|Microsoft.WindowsAPICodePack.dll",
+        "Download7": "https://cdn.discordapp.com/attachments/855844650107797546/855844674294775838/Siticone.UI.dll|Siticone.UI.dll",
+        "Download8": "https://cdn.discordapp.com/attachments/855844650107797546/855844676203970580/Microsoft.WindowsAPICodePack.Shell.dll|Microsoft.WindowsAPICodePack.Shell.dll"
     }
 }
+
