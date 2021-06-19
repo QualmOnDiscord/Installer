@@ -1,8 +1,8 @@
 {
     "Latest": {
         "downloadAmount": "3",
-        "Download1": "https://cdn.discordapp.com/attachments/855743162828062722/855743201871396904/QualmSwapperNETCore.exe",
-        "Download2": "https://cdn.discordapp.com/attachments/855743162828062722/855743209862987827/Siticone.UI.dll",
-        "Download3": "https://cdn.discordapp.com/attachments/855743162828062722/855743209934290944/Newtonsoft.Json.dll"
+        "Download1": "https://cdn.discordapp.com/attachments/855743162828062722/855743201871396904/QualmSwapperNETCore.exe|QualmSwapperNETCore.exe",
+        "Download2": "https://cdn.discordapp.com/attachments/855743162828062722/855743209862987827/Siticone.UI.dll|Siticone.UI.dll",
+        "Download3": "https://cdn.discordapp.com/attachments/855743162828062722/855743209934290944/Newtonsoft.Json.dll|Newtonsoft.Json.dll"
     }
 }
