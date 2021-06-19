@@ -4,5 +4,14 @@
         "Download1": "https://cdn.discordapp.com/attachments/853982768400433202/855767541213298688/QualmSwapperNETCore.exe|QualmSwapper.exe",
         "Download2": "https://cdn.discordapp.com/attachments/855743162828062722/855743209862987827/Siticone.UI.dll|Siticone.UI.dll",
         "Download3": "https://cdn.discordapp.com/attachments/855743162828062722/855743209934290944/Newtonsoft.Json.dll|Newtonsoft.Json.dll"
+    },
+    "14": {
+        "downloadAmount": "6",
+        "Download1": "https://cdn.discordapp.com/attachments/855770825420046336/855771146766778368/Qualm_Swapper_S4.exe|QualmSwapperS4.exe",
+        "Download2": "https://cdn.discordapp.com/attachments/855743162828062722/855743209862987827/Siticone.UI.dll|Siticone.UI.dll",
+        "Download3": "https://cdn.discordapp.com/attachments/855743162828062722/855743209934290944/Newtonsoft.Json.dll|Newtonsoft.Json.dll",
+        "Download4": "https://cdn.discordapp.com/attachments/855770825420046336/855771143407403008/Microsoft.WindowsAPICodePack.Shell.dll|Microsoft.WindowsAPICodePack.Shell.dll",
+        "Download5": "https://cdn.discordapp.com/attachments/855770825420046336/855771140512677938/Microsoft.WindowsAPICodePack.dll|Microsoft.WindowsAPICodePack.dll",
+        "Download6": "https://cdn.discordapp.com/attachments/855770825420046336/855771139452174346/DiscordRPC.dll|DiscordRPC.dll"
     }
 }
